@@ -1,8 +1,6 @@
 # Monkeypox Skin Lesion Classification Using Transfer Learning Approach
 
-# Monkeypox Skin Lesion Classification Using Transfer Learning Approach
-
-![IBSSC2022]()
+![IBSSC2022](https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/banner.PNG)
 
 # Table Of Contents
 
