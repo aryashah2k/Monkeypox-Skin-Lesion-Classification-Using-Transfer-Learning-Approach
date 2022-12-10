@@ -21,5 +21,5 @@
 
 |Published In|
 |-----------------|
-|<img src="https://github.com/aryashah2k/IMAGE FILE">|
+|<img src="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/ieeexplore.png">|
 
