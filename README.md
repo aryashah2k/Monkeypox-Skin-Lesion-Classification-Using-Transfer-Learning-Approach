@@ -17,7 +17,7 @@
 
 |Organized By|Technical Sponsor|
 |------------|-----------------|
-|<img src="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/MPSTMExIEEEB.png" height="150px" width="150px">|<img src="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/quantiphi.jpg">|
+|<img src="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/MPSTMExIEEEB.png" height="150px" width="300px">|<img src="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/blob/main/assets/quantiphi.jpg">|
 
 |Published In|
 |-----------------|
