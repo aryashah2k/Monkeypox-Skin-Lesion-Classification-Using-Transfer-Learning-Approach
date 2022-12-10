@@ -6,10 +6,10 @@
 
 |No.|Content|Link To View|
 |---|-------|------------|
-|1.|Conference Paper|<a href="">Click To View</a>|
-|2.|Paper Presentation|<a href="">Click To View</a>|
-|3.|Notebooks|<a href="">Click To View</a>|
-|4.|Author Certificate|<a href="">Click To View</a>|
+|1.|Conference Paper|<a href="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/tree/main/Conference%20Paper">Click To View</a>|
+|2.|Paper Presentation|<a href="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/tree/main/Paper%20Presentation">Click To View</a>|
+|3.|Notebooks|<a href="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/tree/main/Notebooks">Click To View</a>|
+|4.|Author Certificate|<a href="https://github.com/aryashah2k/Monkeypox-Skin-Lesion-Classification-Using-Transfer-Learning-Approach/tree/main/Conference%20Certificate">Click To View</a>|
 
 # About
 
